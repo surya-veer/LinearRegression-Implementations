@@ -1,5 +1,6 @@
 # LinearRegression - Different Implementations
-## Using Statistical Model
+
+## 1. Using Statistical Model
 This is the result of this model
 1. Dotted blue points are our data set
 2. Solid line is our LR line
